@@ -100,9 +100,7 @@ echo
 
 echo "CMD: /usr/local/bin/vzlogger --foreground --config /vzlogger.conf"
 /usr/local/bin/vzlogger --foreground --config /vzlogger.conf
-#echo out.txt:
-#echo
-#cat /out.txt
+
 echo
 echo vzlogger.log:
 echo
