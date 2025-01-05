@@ -1,6 +1,7 @@
 # vzlogger to MQTT Add-on
-[![Build Status](https://travis-ci.com/m-reuter/ha-addons.svg?branch=master)](https://travis-ci.com/m-reuter/ha-addons)
 
+Fork of hvorragend. 
+Based on the wonderful original by https://github.com/m-reuter/ha-addons/tree/master/vzlogger2mqtt
 
 This addon provides [vzlogger](https://github.com/volkszaehler/vzlogger) with MQTT 
 communication as a HomeAssistant Add-On.
@@ -111,7 +112,3 @@ Will read the total consumption (using agg: max) and the current consumption (us
 Iskraemeco MT176. More details can be found on the volkszaehler and vzlogger pages:
 https://wiki.volkszaehler.org/software/controller/vzlogger/overview_en 
 
-# Thanks ...
-
-Thanks for your interest in this project! If you like it and it is useful to you, you can now buy me a coffee:
-https://www.buymeacoffee.com/mreuter
